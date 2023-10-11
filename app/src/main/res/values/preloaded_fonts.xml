@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/balsamiq_sans_bold_italic</item>
+        <item>@font/beth_ellen</item>
+        <item>@font/inknut_antiqua_light</item>
+        <item>@font/luckiest_guy</item>
+        <item>@font/merienda_one</item>
+    </array>
+</resources>
