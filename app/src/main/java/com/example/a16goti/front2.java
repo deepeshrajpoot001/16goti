@@ -23,13 +23,13 @@ import com.google.android.material.bottomsheet.BottomSheetDialogFragment;
 
 public class front2 extends AppCompatActivity {
     ActivityFront2Binding binding;
+    //deepesh rajpoot
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         binding = ActivityFront2Binding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
-
 
 
 
